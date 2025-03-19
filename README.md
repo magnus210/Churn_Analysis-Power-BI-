@@ -11,24 +11,21 @@ Churn Rate by Contract Type
 Lost Revenue vs. Gained Revenue
 Key Visualizations
 Churn Rate by Contract
-
-# Month-to-month: 0.43 (highest churn)
+Month-to-month: 0.43 (highest churn)
 One-year: 0.11
 Two-year: 0.03 (lowest churn)
 Payment Method Distribution
-
-# Electronic Check: 33.58%
+Electronic Check: 33.58%
 Mailed Check: 22.89%
 Bank Transfer: 21.92%
 Credit Card: 21.61%
 Internet Service Type Distribution
-
-# Fiber Optic: 43.96%
+Fiber Optic: 43.96%
 DSL: 34.37%
 No Internet: 21.67%
-Demographics
 
-# Gender Split: Male (50.48%), Female (49.52%)
+# Demographics
+Gender Split: Male (50.48%), Female (49.52%)
 Senior Citizens: 16%
 Lost vs. Gained Revenue
 
