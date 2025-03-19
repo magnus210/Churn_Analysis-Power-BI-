@@ -9,27 +9,26 @@ Billing & Payment Methods
 Internet Service Type
 Churn Rate by Contract Type
 Lost Revenue vs. Gained Revenue
-Key Visualizations
-Churn Rate by Contract
-Month-to-month: 0.43 (highest churn)
-One-year: 0.11
-Two-year: 0.03 (lowest churn)
-Payment Method Distribution
-Electronic Check: 33.58%
-Mailed Check: 22.89%
-Bank Transfer: 21.92%
-Credit Card: 21.61%
-Internet Service Type Distribution
-Fiber Optic: 43.96%
-DSL: 34.37%
-No Internet: 21.67%
 
-# Demographics
+# Key Visualizations
+1. Churn Rate by Contract
+  Month-to-month: 0.43 (highest churn)
+  One-year: 0.11
+  Two-year: 0.03 (lowest churn)
+2. Payment Method Distribution
+  Electronic Check: 33.58%
+  Mailed Check: 22.89%
+  Bank Transfer: 21.92%
+  Credit Card: 21.61%
+3. Internet Service Type Distribution
+  Fiber Optic: 43.96%
+  DSL: 34.37%
+  No Internet: 21.67%
+4. Demographics
 Gender Split: Male (50.48%), Female (49.52%)
 Senior Citizens: 16%
 Lost vs. Gained Revenue
-
-Lost Revenue: 2.9M
+5. Lost Revenue: 2.9M
 Gained Revenue: 13.2M
 
 # Insights
@@ -43,7 +42,7 @@ Revenue gained is significantly higher than lost revenue, suggesting overall bus
 Use filters in Power BI to drill down into customer demographics, service types, and payment preferences.
 Analyze contract-based churn rates to optimize retention strategies.
 Focus on reducing month-to-month contract churn and improving payment method flexibility.
-Future Improvements
+# Future Improvements
 Predict churn using machine learning integration.
 Analyze customer feedback and reasons for cancellations.
 Introduce retention offers based on payment method trends.
